@@ -21,4 +21,4 @@ Me and Lukas's Project is about Playstation consoles we chose this because we bo
  * Layout
   * This is the layout of the **Home Page**
   
-  <a href="task"><image src=>
+  <a href="task"><image src=https://github.com/MaxJuriss/Playstation-Max-Juriss-and-Lukas-Hales/blob/main/images/Home_Page_ss.png>
